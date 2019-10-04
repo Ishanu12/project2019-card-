@@ -33,6 +33,6 @@ public class WebURLScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+    //update function is here
     }
 }
